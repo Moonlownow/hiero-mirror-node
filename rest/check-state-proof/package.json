@@ -36,7 +36,7 @@
     "chalk": "^5.4.1",
     "extensionless": "^1.9.9",
     "glob": "^11.0.3",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "log4js": "^6.9.1",
     "node-fetch": "^3.3.2",
     "word-wrap": "npm:@aashutoshrathi/word-wrap@^1.2.6",
